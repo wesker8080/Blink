@@ -1,0 +1,22 @@
+<resources>
+    <string name="PARSE_ERROR">json解析出错</string>
+    <string name="NOT_NET">网络异常</string>
+    <string name="OK">请求成功</string>
+    <string name="NOT_OK">请求失败</string>
+    <string name="IMEI_INVALID">无效IMEI号</string>
+    <string name="ERROR">服务器忙碌中</string>
+    <string name="USR_EXISTS">用户名已经存在</string>
+    <string name="USER_NON_EXISTS">用户名不存在</string>
+    <string name="BIND_REFUSE">设备被拒绝绑定</string>
+    <string name="BIND_TIMES">你已经绑定过这台设备了</string>
+    <string name="ID_INVALID">无效用户ID</string>
+    <string name="AUTHOR_LACK">用户权限不够</string>
+    <string name="TOKEN_ERROR">你的账户登陆在其他地方,被迫下线</string>
+    <string name="NOT_MAIN_DEVICE">设备非用户的主设备</string>
+    <string name="ERROR_19">用户权限不够</string>
+    <string name="PET_NAME_EXIST">宠物昵称已经存在</string>
+    <string name="TIME_OUT">网络超时</string>
+    <string name="UNCHECK_PARAMETER">无效参数</string>
+    <string name="MAX_ELE">物理电子围栏数已达到上限</string>
+    <string name="gps_dev_ouline">当前设备已掉线,正在重新建立连接</string>
+</resources>

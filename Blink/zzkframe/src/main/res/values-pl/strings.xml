@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PARSE_ERROR">Json parse error</string>
+    <string name="NOT_NET">Brak połączenia z serwerem, sprawdź sieć.</string>
+    <string name="OK">Żądanie wykonano pomyślnie</string>
+    <string name="NOT_OK">Żądanie nie przebiegło pomyślnie</string>
+    <string name="IMEI_INVALID">Nieważny numer IMEI</string>
+    <string name="ERROR">Serwer zajęty</string>
+    <string name="USR_EXISTS">Użytkownik już istnieje</string>
+    <string name="USER_NON_EXISTS">Użytkownik nie istnieje</string>
+    <string name="BIND_REFUSE">Urządzenie nie miało możliwości połączenia</string>
+    <string name="BIND_TIMES">Musisz przypisać urządzenie</string>
+    <string name="ID_INVALID">Nieważne ID użytkownika</string>
+    <string name="AUTHOR_LACK">Niewystarczające uprawnienia</string>
+    <string name="TOKEN_ERROR">Twoje zostało przełączone w tryb offline</string>
+    <string name="NOT_MAIN_DEVICE">Urządzenie nie jest głównym urządzeniem użytkownika</string>
+    <string name="ERROR_19">Niewystarczające uprawnienia użytkownika</string>
+    <string name="PET_NAME_EXIST">Zduplikowane imię zwierzaka</string>
+    <string name="TIME_OUT">Limit czasu sieci</string>
+    <string name="UNCHECK_PARAMETER">Błędny parametr</string>
+    <string name="MAX_ELE">Wartość niewidzialnego ogrodzenia osiągneła górny limit</string>
+    <string name="gps_dev_ouline">urządzenie nie jest online, proszę sprawdź czy urządzenie jest naładowane i włóż kartę SIM</string>
+</resources>
+

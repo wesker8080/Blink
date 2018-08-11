@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+    <string name="PARSE_ERROR">Json parse error</string>
+    <string name="NOT_NET">Není možné se spojit se serverem, prosím zkontrolujte připojení.</string>
+    <string name="OK">Požadavek byl úspěšný</string>   
+    <string name="NOT_OK">Požadavek nebyl úspěšný</string>   
+    <string name="IMEI_INVALID">Neplatné IMEI číslo</string>   
+    <string name="ERROR">Server je vytížený</string>   
+    <string name="USR_EXISTS">Uživatel již existuje</string>   
+    <string name="USER_NON_EXISTS">Uživatel neexituje</string>   
+    <string name="BIND_REFUSE">Zařízení nebylo umožněno spojení</string>   
+    <string name="BIND_TIMES">Zařízení je spojeno</string>   
+    <string name="ID_INVALID">Neplatné uživatelské ID</string>   
+    <string name="AUTHOR_LACK">Uživatelovo svolení není dostatečné</string>   
+    <string name="TOKEN_ERROR">Tvůj účet byl přepnut do režimu offline</string>   
+    <string name="NOT_MAIN_DEVICE"> Zařízení není hlavním zařízením uživatele</string>   
+    <string name="ERROR_19">Povolení není možné</string>   
+    <string name="PET_NAME_EXIST">Duplicitní jméno zvířete</string>   
+    <string name="TIME_OUT">Síťový časový limit</string>   
+    <string name="UNCHECK_PARAMETER">Neplatný parametr</string>   
+    <string name="MAX_ELE">Množství virtuálních plotů dosáhlo horní hranice</string>   
+    <string name="gps_dev_ouline">zařízení není online, zkontrolujte prosím, zda-li je zařízení nabité a vložte sim kartu</string>
+</resources>

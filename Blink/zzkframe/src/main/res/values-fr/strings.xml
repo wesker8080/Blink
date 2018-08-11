@@ -1,0 +1,22 @@
+﻿<resources>
+    <string name="PARSE_ERROR">Erreur d\'analyse Json</string>
+    <string name="NOT_NET">Impossible d\'accéder au serveur, vérifiez le réseau.</string>
+    <string name="OK">La demande a réussi</string>
+    <string name="NOT_OK">La demande a échoué</string>
+    <string name="IMEI_INVALID">Numéro IMEI invalide</string>
+    <string name="ERROR">Serveur occupé</string>
+    <string name="USR_EXISTS">L\'utilisateur existe déjà</string>
+    <string name="USER_NON_EXISTS">L\'utilisateur n\'existe pas</string>
+    <string name="BIND_REFUSE">L\'équipement a été refusé</string>
+    <string name="BIND_TIMES">Vous avez lié cet appareil</string>
+    <string name="ID_INVALID">ID utilisateur invalide</string>
+    <string name="AUTHOR_LACK">Les autorisations d\'utilisateur ne suffisent pas</string>
+    <string name="TOKEN_ERROR">Compte débarquant dans d\'autres endroits, déconnexion forcée</string>
+    <string name="NOT_MAIN_DEVICE">L\'équipement n\'est pas l\'équipement principal de l\'utilisateur</string>
+    <string name="ERROR_19">Les autorisations d\'utilisateur ne suffisent pas</string>
+    <string name="PET_NAME_EXIST">Nom d\'animal de compagnie en double</string>
+    <string name="TIME_OUT">Délai d\'attente réseau</string>
+    <string name="UNCHECK_PARAMETER">Paramètre invalide</string>
+    <string name="MAX_ELE">Le numéro de clôture virtuelle a atteint la limite supérieure</string>
+    <string name="gps_dev_ouline">L\'appareil n\'est pas en ligne, vérifiez l\'alimentation de l\'appareil et insérez la carte SIM</string>
+</resources> 

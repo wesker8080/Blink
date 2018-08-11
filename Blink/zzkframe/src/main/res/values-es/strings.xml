@@ -1,0 +1,23 @@
+<resources>
+    <string name="PARSE_ERROR">Error de análisis Json</string>
+    <string name="NOT_NET"> No se puede acceder al servidor, revise la red.</string>
+    <string name="OK">Solicitud exitosa</string>
+    <string name="NOT_OK">Error de solicitud</string>
+    <string name="IMEI_INVALID">Número IMEI no válido</string>
+    <string name="ERROR">Servidor no disponible</string>
+    <string name="USR_EXISTS">Ya existe el usuario</string>
+    <string name="USER_NON_EXISTS">No existe el usuario</string>
+    <string name="BIND_REFUSE">Se rechazó la vinculación del equipo</string>
+    <string name="BIND_TIMES">Ha vinculado este equipo</string>
+    <string name="ID_INVALID">ID de usuario no válido</string>
+    <string name="AUTHOR_LACK">Permisos del usuario no suficientes</string>
+    <string name="TOKEN_ERROR">Ha iniciado sesión con su cuenta en otro lugar, se forzó la desconexión</string>
+    <string name="NOT_MAIN_DEVICE">El equipo no es el equipo principal del usuario</string>
+    <string name="ERROR_19">Permisos del usuario no suficientes</string>
+    <string name="PET_NAME_EXIST">Ya existe ese nombre de mascota</string>
+    <string name="TIME_OUT">Tiempo de espera de la red excedido</string>
+    <string name="UNCHECK_PARAMETER">Parámetro no válido</string>
+    <string name="MAX_ELE">El número de cercas virtual ha alcanzado el límite máximo</string>
+    <string name="gps_dev_ouline">El dispositivo no está en línea, compruebe la carga de la batería del dispositivo e inserte la tarjeta SIM</string>
+</resources>
+

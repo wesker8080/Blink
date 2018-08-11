@@ -1,0 +1,22 @@
+<resources>
+    <string name="PARSE_ERROR">Json parse error</string>
+    <string name="NOT_NET">Unable to access server, check network.</string>
+    <string name="OK">The request is successful</string>
+    <string name="NOT_OK">The request failed</string>
+    <string name="IMEI_INVALID">Invalid IMEI number</string>
+    <string name="ERROR">Server busy</string>
+    <string name="USR_EXISTS">User already exists</string>
+    <string name="USER_NON_EXISTS">The user does not exist</string>
+    <string name="BIND_REFUSE">Equipment was refused binding</string>
+    <string name="BIND_TIMES">You have bound this device</string>
+    <string name="ID_INVALID">Invalid user ID</string>
+    <string name="AUTHOR_LACK">User permissions not enough</string>
+    <string name="TOKEN_ERROR">Your account landing in other places, were forced to offline</string>
+    <string name="NOT_MAIN_DEVICE">The equipment is not the main equipment of user</string>
+    <string name="ERROR_19">User permissions not enough</string>
+    <string name="PET_NAME_EXIST">Duplicate Pet Name</string>
+    <string name="TIME_OUT">Network timeout</string>
+    <string name="UNCHECK_PARAMETER">Invalid parameter</string>
+    <string name="MAX_ELE">Virtual fence number has reached the upper limit</string>
+    <string name="gps_dev_ouline">device is not online, please check the device power and insert the SIM card</string>
+</resources>
